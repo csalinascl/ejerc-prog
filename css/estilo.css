@@ -1,0 +1,21 @@
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	color: #5C79BC ;
+}
+
+.mdl-card__title.mdl-card--expand {
+    background: blueviolet !important;
+    color: white !important;
+}
+
+.mdl-card__actions.mdl-card--border {
+    background: #e4e4e4 !important;
+}
+
+i.material-icons.chevron-right {
+    top: 5px !important;
+    position: relative;
+}
